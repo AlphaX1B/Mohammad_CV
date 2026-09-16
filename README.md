@@ -79,22 +79,59 @@ ________________________________________________________________________________
 ## Methodologies
 - Agile
 - Scrum
-
-
-Cloud Platform (AWS): EC2, IAM, VPC, S3, SNS, ECR, EKS, CloudWatch, CloudFormation, Lambda OpenSearch, Bedrock.  
-Containerization & Orchestration: Docker, Kubernetes, Helm, AWS EKS.  
-Infrastructure as Code (IAC): Terraform, AWS CloudFormation.  
-CI/CD: Jenkins, Git, GitHub Actions.  
-Monitoring & Observability: Dynatrace, New Relic, Amazon CloudWatch (working knowledge of Prometheus & Grafana).  
-Operating Systems / Unix: Linux (RHEL, Amazon Linux 2/2023), Ubuntu; shell scripting, process, Cron, log analysis.  
-Scripting & Automation: Bash, Python, Groovy.  
-Incident & Reliability Management: ServiceNow, Incident, Problem & Change Management, on-call rotations, root cause analysis (RCA), SLA / SLO / SLI tracking and reporting, error budgets, post-incident reviews.  
-Version Control: Git, GitHub.  
-Networking & Security: VPC networking, Load Balancing (ALB/ELB), IAM policies & roles, IRSA, security groups, secrets management.  
-Configuration Management: Helm Charts, Kubernetes ConfigMaps & Secrets, environment configuration management.  
-Familiar With: GitOps (ArgoCD), Ansible, Prometheus, Agile/Scrum methodology.  
-
 ________________________________________________________________________________________________________________________________________________________________  
 
+# PROFESSIONAL EXPERIENCE
+
+Role: DevOps Engineer / Site Reliability Engineer (SRE) — Tata Consultancy Services (TCS)  Feb 2023 – Aug 2026
+Project/Client: GE HealthCare
+
+- • Managed the reliability of 70+ production applications across 10 AWS EKS clusters, maintaining 99.5% uptime in alignment with defined SLOs and service reliability targets.
+
+- • Supported production microservices on Amazon EKS across development and production environments, focusing on availability, scalability, latency, error rates, and overall service reliability.
+
+- • Supported platform modernization and technology changes across production environments, adapting application and infrastructure configurations to evolving operating system and cloud platform requirements while maintaining service reliability.
+
+- • Defined and tracked SLIs, SLOs, and error budgets, using service health and operational metrics to identify reliability risks and maintain agreed service targets.
+
+- • Implemented Horizontal Pod Autoscaling (HPA) to dynamically scale Kubernetes workloads during traffic spikes and maintain service reliability during peak workloads.
+
+- • Managed and resolved critical production incidents, coordinating with application, infrastructure, network, and support teams to restore services within defined SLAs and minimize business impact.
+
+- • Performed root cause analysis on recurring application and infrastructure incidents, identifying systemic issues and implementing permanent corrective actions to reduce recurrence and improve service reliability.
+
+- • Monitored application and infrastructure health using Dynatrace, New Relic, and Amazon CloudWatch, configuring alerts against defined SLO thresholds to enable proactive issue identification.
+
+- • Performed Linux/Unix-level troubleshooting across EC2 instances and EKS worker nodes, analyzing CPU, memory, disk utilization, processes, logs, and service health to resolve production incidents.
+
+- • Diagnosed and resolved a high-memory-consumption issue in Java applications running on Amazon Linux 2023 through Unix-level performance and resource analysis.
+
+- • Managed Kubernetes workloads using Deployments, Services, Ingress, Helm Charts, ConfigMaps, and Secrets to support consistent and reliable application deployments.
+
+- • Implemented secure AWS access using IAM roles, IRSA, security groups, and Kubernetes Secrets, supporting least-privilege access and operational security.
+
+- • Configured AWS Elastic Load Balancer (ELB/ALB) for reliable traffic distribution across application services and Kubernetes workloads.
+
+- • Led Dockerization activities across multiple delivery tracks, coordinating implementation against client SLAs and reliability targets while reducing environment inconsistencies between development and production.
+
+- • Built and maintained CI/CD pipelines using Jenkins and GitHub Actions, contributing to a 38% reduction in deployment time through pipeline segregation and improved delivery processes.
+
+- • Optimized Docker image layering and build processes, reducing container image size and associated storage requirements.
+
+- • Identified opportunities for operational improvement and automation, implementing CI/CD and infrastructure automation initiatives to reduce manual effort, improve deployment efficiency, and increase service reliability.
+
+- • Planned and coordinated infrastructure and application delivery activities across multiple workstreams, prioritizing tasks, managing dependencies, allocating technical resources, and ensuring delivery within agreed timelines.
+
+- • Provided technical mentoring and day-to-day guidance to team members, coordinated task assignments, and facilitated knowledge sharing across DevOps and production operations activities.
+
+- • Collaborated with application owners, developers, infrastructure, security, network, and business teams during incidents, changes, deployments, and service improvement initiatives.
+
+- • Communicated incident status, business impact, root cause, remediation plans, and service-level performance to technical and business stakeholders.
+
+- • Prepared and maintained operational reports covering incident trends, SLA/SLO performance, service reliability, recurring issues, and corrective actions for stakeholder review.
+
+- • Maintained technical documentation covering application configurations, Kubernetes resources, deployment procedures, operational processes, incident resolution steps, and production support activities.
+
+- • Worked within ITIL-based Incident, Problem, and Change Management processes, maintaining operational standards and supporting controlled production changes.
 
 
