@@ -139,5 +139,12 @@ Project/Client: GE HealthCare
 -	Maintained Incident SLA compliance across multiple production issues, contributing to improved MTTR.
 -	Diagnosed and resolved a high memory consumption issue in Java applications running on Amazon Linux 2023 through Unix-level performance analysis.
 
+_______________________________________________________________________________________________________________________________________________________________  
+
+Role : Payments Assurance Test Analyst — HSBC India    	Apr-2022 – Feb-2023  
+Project : International Payments Testing - HSBC.  
+- 
+- Monitored and validated AI-processed cross-border payments for accuracy, identifying and reporting defects to development teams for AI model training.
+- Contributed to enhancement of payment tracking mechanisms through AI model feedback
 
 
