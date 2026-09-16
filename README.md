@@ -11,12 +11,12 @@ Hands-on experience with Kubernetes (Amazon EKS), Docker, Helm, Terraform, Jenki
 _____________________________________________________________________________________________________________________________________________________________  
 
 # Core Technical Skills
-## Design & Architecture  
-- IAC  
-- IAAC  
-- PAAC  
-- CI/CD  
-- Micro Services  
+## DevOps & Architecture
+- Infrastructure as Code (IaC)
+- Microservices
+- CI/CD
+- Cloud Infrastructure
+- Containerized Applications
 
 ## Programming, Scripting & Configuration 
 - Bash/Shell  
@@ -33,32 +33,42 @@ ________________________________________________________________________________
 ## Cloud & CLI Tools
 - AWS CLI
 - Kubectl CLI
-- AWS Cloud: EC2, IAM, VPC, S3, ECR. EKS, Lambda, Cloudwatch, SNS, RDS, Bedrock.
+- AWS Cloud: EC2, IAM, VPC, S3, ECR, EKS, Lambda, CloudWatch, SNS, RDS, Bedrock.
 
-## Networking & Security  
-- AWS VPC
-- AWS Application Load Balancing
-- IAM
-- IRSA
+## Infrastructure as Code & Automation
+
+- Terraform
+- AWS CloudFormation
+
+## Networking & Security
+
+- VPC Networking
+- Application Load Balancer (ALB)
+- Elastic Load Balancing (ELB)
+- IAM Policies & Roles
+- IAM Roles for Service Accounts (IRSA)
 - Security Groups
-- Secret Management
-- NACL
-- Routing'
+- Network ACLs (NACLs)
+- Routing
 - DNS
+- Secrets Management
 
 ## Version Control & GitOps
 - Git
 - Github
 - Argo CD
-- Kubernetes ConfigMaps & Secrets
 
 ## Containers, Orchestration & Automation
 - Docker
 - Kubernetes
 - AWS Elastic Kubernetes Service
+- Kubernetes Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- HPA
 - Helm
-- CloudFormation
-- Terraform
 - Jenkins
 - Github Actions
 
@@ -66,15 +76,18 @@ ________________________________________________________________________________
 - Dynatrace
 - New Relic
 - Cloudwatch
-- Promethus, Grafana (Familiar with)
+- Promethus, Grafana - Working knowledge
 
-## SRE & Incident Managenemt
-- ServiceNow
-- Incident and Change Management
-- RCA
-- On-call Support - Production
-- SLI, SLO and SLA Management
+## SRE & Reliability Engineering
+
+- SLI / SLO / SLA Management
+- Error Budgets
+- Incident Management
+- Change Management
+- Root Cause Analysis (RCA)
+- On-Call Production Support
 - Post-Incident Reviews
+- ITIL
 
 ## Methodologies
 - Agile
@@ -122,8 +135,6 @@ Project/Client: GE HealthCare
 -  Configured AWS Elastic Load Balancer (ELB/ALB) for reliable traffic distribution across application services and Kubernetes workloads.
 
 -  Led Dockerization activities across multiple delivery tracks, coordinating implementation against client SLAs and reliability targets while reducing environment inconsistencies between development and production.
-
--  Built and maintained CI/CD pipelines using Jenkins and GitHub Actions, contributing to a 38% reduction in deployment time through pipeline segregation and improved delivery processes.
 
 -  Optimized Docker image layering and build processes, reducing container image size and associated storage requirements.
 
@@ -177,9 +188,13 @@ Degree: Bachelor of Commerce & Computer Applications
 University: Osmania University - India, Hyderabad.  
 Year: 2013 - 2016  
 -
-High School Diploma: Mathematics, Physics & Chemistry  
+Higher Secondary / Intermediate: Mathematics, Physics & Chemistry  
 Board: Board of Intermediate Education - India, Hyderabad  
-Year : 2001 - 2013
+Year : 2011 - 2013
+- 
+School : Vidya Niketan High School  
+Board: Board of Secondary Education - India, Hyderabad  
+Year: 2000 - 2011  
 - 
 _____________________________________________________________________________________________________________________________________________________________  
 
