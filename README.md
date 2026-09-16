@@ -27,14 +27,58 @@ ________________________________________________________________________________
 
 ## Operating Systems  
 - Linux
+- Amazon Linux
+- Ubuntu
 
 ## Cloud & CLI Tools
 - AWS CLI
 - Kubectl CLI
+- AWS Cloud: EC2, IAM, VPC, S3, ECR. EKS, Lambda, Cloudwatch, SNS, RDS, Bedrock.
 
-## Version Control  
+## Networking & Security  
+- AWS VPC
+- AWS Application Load Balancing
+- IAM
+- IRSA
+- Security Groups
+- Secret Management
+- NACL
+- Routing'
+- DNS
+
+## Version Control & GitOps
 - Git
+- Github
+- Argo CD
+- Kubernetes ConfigMaps & Secrets
 
+## Containers, Orchestration & Automation
+- Docker
+- Kubernetes
+- AWS Elastic Kubernetes Service
+- Helm
+- CloudFormation
+- Terraform
+- Jenkins
+- Github Actions
+
+## Monitoring & Observability
+- Dynatrace
+- New Relic
+- Cloudwatch
+- Promethus, Grafana (Familiar with)
+
+## SRE & Incident Managenemt
+- ServiceNow
+- Incident and Change Management
+- RCA
+- On-call Support - Production
+- SLI, SLO and SLA Management
+- Post-Incident Reviews
+
+## Methodologies
+- Agile
+- Scrum
 
 
 Cloud Platform (AWS): EC2, IAM, VPC, S3, SNS, ECR, EKS, CloudWatch, CloudFormation, Lambda OpenSearch, Bedrock.  
