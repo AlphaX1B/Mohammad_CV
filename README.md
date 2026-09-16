@@ -178,7 +178,7 @@ University: Osmania University - India, Hyderabad.
 Year: 2013 - 2016  
 -
 High School Diploma: Mathematics, Physics & Chemistry  
-Board: Board of Intermediate Education - India, Hyderabad
+Board: Board of Intermediate Education - India, Hyderabad  
 Year : 2001 - 2013
 - 
 _____________________________________________________________________________________________________________________________________________________________  
