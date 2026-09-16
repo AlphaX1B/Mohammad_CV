@@ -85,6 +85,7 @@ ________________________________________________________________________________
 
 Role: DevOps Engineer / Site Reliability Engineer (SRE) — Tata Consultancy Services (TCS)  Feb 2023 – Aug 2026  
 Project/Client: GE HealthCare  
+- 
 -  Managed the reliability of 70+ production applications across 10 AWS EKS clusters, maintaining 99.5% uptime in alignment with defined SLOs and service reliability targets.
 
 -  Supported production microservices on Amazon EKS across development and production environments, focusing on availability, scalability, latency, error rates, and overall service reliability.
