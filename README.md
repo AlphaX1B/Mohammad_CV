@@ -11,13 +11,29 @@ Hands-on experience with Kubernetes (Amazon EKS), Docker, Helm, Terraform, Jenki
 _____________________________________________________________________________________________________________________________________________________________  
 
 # CORE TECHNICAL SKILLS
-## Design & Architecture:  
-IAC  
-IAAC  
-PAAC  
-CI/CD  
-Micro Services  
+## Design & Architecture  
+- IAC  
+- IAAC  
+- PAAC  
+- CI/CD  
+- Micro Services  
 
+## Programming, Scripting & Configuration 
+- Bash/Shell  
+- Python  
+- Groovy  
+- YAML
+- JSON
+
+## Operating Systems  
+- Linux
+
+## Cloud & CLI Tools
+- AWS CLI
+- Kubectl CLI
+
+## Version Control  
+- Git
 
 
 
