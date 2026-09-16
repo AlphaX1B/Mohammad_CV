@@ -11,7 +11,7 @@ Hands-on experience with Kubernetes (Amazon EKS), Docker, Helm, Terraform, Jenki
 _____________________________________________________________________________________________________________________________________________________________  
 
 # CORE TECHNICAL SKILLS
-Design & Architecture:  
+## Design & Architecture:  
 IAC  
 IAAC  
 PAAC  
