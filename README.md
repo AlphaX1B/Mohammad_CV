@@ -83,7 +83,9 @@ ________________________________________________________________________________
 
 # PROFESSIONAL EXPERIENCE
 
-Role: DevOps Engineer / Site Reliability Engineer (SRE) — Tata Consultancy Services (TCS)  Feb 2023 – Aug 2026  
+Role: DevOps Engineer / Site Reliability Engineer (SRE)  
+Organisation: Tata Consultancy Services (TCS)  
+Tenure: Feb 2023 – Aug 2026  
 Project/Client: GE HealthCare  
 - 
 -  Managed the reliability of 70+ production applications across 10 AWS EKS clusters, maintaining 99.5% uptime in alignment with defined SLOs and service reliability targets.
@@ -142,7 +144,9 @@ Project/Client: GE HealthCare
 
 _______________________________________________________________________________________________________________________________________________________________  
 
-Role : Payments Assurance Test Analyst — HSBC India    	Apr-2022 – Feb-2023  
+Role : Payments Assurance Test Analyst  
+Organisation: HSBC India
+Tenure: Apr-2022 – Feb-2023  
 Project : International Payments Testing - HSBC.  
 - 
 - Monitored and validated AI-processed cross-border payments for accuracy, identifying and reporting defects to development teams for AI model training.
