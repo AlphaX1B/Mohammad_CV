@@ -79,12 +79,19 @@ ________________________________________________________________________________
 ## Methodologies
 - Agile
 - Scrum
+___________________________________________________________________________________________________________________________________________________________  
+
+# Professional Certifications  
+- Certificate: AWS Certified Solutions Architect – Associate
+- Certificate Validity: June 2025 – June 2028
+- Issuing Authority: Amazon Web Services Training and Certification
+- Verify : https://www.credly.com/badges/1e08a56e-a586-49ba-9f69-76caee9736b0
 ________________________________________________________________________________________________________________________________________________________________  
 
 # PROFESSIONAL EXPERIENCE
 
 Role: DevOps Engineer / Site Reliability Engineer (SRE)  
-Organisation: Tata Consultancy Services (TCS)  
+Organisation: Tata Consultancy Services, India - Hyderabad  
 Tenure: Feb 2023 – Aug 2026  
 Project/Client: GE HealthCare  
 - 
@@ -145,11 +152,23 @@ Project/Client: GE HealthCare
 _______________________________________________________________________________________________________________________________________________________________  
 
 Role : Payments Assurance Test Analyst  
-Organisation: HSBC India
+Organisation: HSBC India - Hyderabad  
 Tenure: Apr-2022 – Feb-2023  
 Project : International Payments Testing - HSBC.  
 - 
 - Monitored and validated AI-processed cross-border payments for accuracy, identifying and reporting defects to development teams for AI model training.
 - Contributed to enhancement of payment tracking mechanisms through AI model feedback
+
+______________________________________________________________________________________________________________________________________________________________  
+
+Role: Appeals Analyst  
+Organisation: Optum Global Solutions, Inida - Hyderabad  
+Tenure: Dec-2016 - Mar-2022
+Project: Provider Escalation 
+- 
+- Resolved escalated incidents from US healthcare providers and hospitals related to payment and contract disputes within SLA, using Salesforce CRM.
+- Reduced claim rejection rate by 8% through improved dispute resolution and contract follow-up processes; received multiple star performer awards.
+
+
 
 
