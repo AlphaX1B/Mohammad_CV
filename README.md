@@ -1,4 +1,4 @@
-# Mohammad_CV
+# Mohammad Ahmed Siddiq
 Dubai, United Arab Emirates  
 Email: mohammadasiddiq@outlook.com  
 Mobile: +971 582119417  
@@ -177,7 +177,7 @@ Degree: Bachelor of Commerce & Computer Applications
 University: Osmania University - India, Hyderabad.  
 Year: 2013 - 2016  
 -
-High School Diploma: Mathematics, Physics & Chemistry
+High School Diploma: Mathematics, Physics & Chemistry  
 Board: Board of Intermediate Education - India, Hyderabad
 Year : 2001 - 2013
 - 
